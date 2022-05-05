@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CesarMoreno19
+- 👀 I’m interested in JavaScript and any new technologies.
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on develope new projects.
+- 📫 How to reach me cesarmoreno1904@gmail.com
